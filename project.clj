@@ -1,4 +1,4 @@
-(defproject spec.settings "0.1.0"
+(defproject spec.settings "0.2.0-SNAPSHOT"
   :description "Settings validated clojure.spec"
   :url "https://github.com/emidln/spec.settings"
   :license {:name "Eclipse Public License"
